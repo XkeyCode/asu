@@ -3,7 +3,7 @@
 
 •pkg update && pkg upgrade
 
-•pkg install python2
+•pkg install python
 
 •pip2 install requests
 
